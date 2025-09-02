@@ -80,4 +80,3 @@ docker stop <container_id>
 - Или использовать альтернативный реестр: `docker pull jupyter/pyspark-notebook`.
 ```
 
-Скопируйте этот текст в файл `README.md` — и он будет отлично отображаться на вашем репозитории.
